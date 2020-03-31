@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "This script is from github"
-Number=$(($NUMBERONE + $NUMBErTWO))
+NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "This is Complete"
 echo "This was run automagically"
